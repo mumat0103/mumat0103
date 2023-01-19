@@ -1,17 +1,20 @@
 ### Hi there 👋
 
-<!--
-**mumat0103/mumat0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Language
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white">
+</p>
 
-Here are some ideas to get you started:
+### Stack
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+</p>
+*** ***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumat0103&show_icons=true&theme=shades-of-purple)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mumat0103&show_icons=true&theme=shades-of-purple&include_all_commits=true&hide=stars">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumat0103&layout=compact&theme=shades-of-purple&">
+</p>
