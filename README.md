@@ -1,18 +1,29 @@
-### Hi there 👋
+# Hi there 👋
 
-### Language
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/-wsx2138%40gmail.com-critical?style=plastic&logo=Gmail&logoColor=#EA4335">
+  <a href="https://mumat.tistory.com">
+    <img src="https://img.shields.io/badge/-mumat.tistory.com-yellow?style-plastic&logo=Tistory&logoColor=white&labelColor=yellow&logoWidth=15">
+  </a>
+</p>
+<br>
+
+### 💻Language
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic">
 </p>
 
-### Stack
+### 🔨Stack
+
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&style=plastic">
 </p>
-*** ***
+
+---
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mumat0103&show_icons=true&theme=shades-of-purple&include_all_commits=true&hide=stars">
