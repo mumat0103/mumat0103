@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi there 👋
-
 ### 😀Introduce
 
 <p>
