@@ -1,9 +1,13 @@
+<div align="center">
 # Hi there 👋
 
-### 🏆Ranking
+### 😀Introduce
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsx2138)](https://solved.ac/wsx2138)
+<p>
+  백엔드 개발자를 꿈꾸는 학생입니다.
+  <br>
+  
+</p>
 
 ### 📧Contact
 
@@ -14,24 +18,31 @@
   </a>
 </p>
 
+### 🏆Ranking
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wsx2138)](https://solved.ac/wsx2138)
+
 ### 💻Language
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&style=plastic">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&style=plastic">
+  
 </p>
 
 ### 🔨Stack
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&style=plastic">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black&style=plastic">
 </p>
 
 ---
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mumat0103&show_icons=true&theme=shades-of-purple&include_all_commits=true&hide=stars&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumat0103&layout=compact&theme=shades-of-purple&">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mumat0103&show_icons=true&theme=shades-of-purple&include_all_commits=true&hide=stars&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumat0103&layout=compact&theme=shades-of-purple&">
 </p>
+</div>
