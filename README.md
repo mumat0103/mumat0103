@@ -3,7 +3,8 @@
 ### 😀Introduce
 
 <p>
-  백엔드 개발자를 꿈꾸는 학생입니다.
+  국민대학교 분산데이터처리시스템 연구실에서 석사 과정을 진행하고 있습니다.
+  
   <br>
   
 </p>
@@ -35,7 +36,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&style=plastic">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black&style=plastic">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&style=plastic">
+
 </p>
 
 ---
