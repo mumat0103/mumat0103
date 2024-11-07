@@ -36,8 +36,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&style=plastic">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white&style=plastic">
-
 </p>
 
 ---
